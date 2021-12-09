@@ -1,0 +1,4 @@
+https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/releases/amd64/autobuilds/current-install-amd64-minimal/install-amd64-minimal-20211101T222649Z.iso
+https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/releases/amd64/autobuilds/current-install-amd64-minimal/install-amd64-minimal-20211101T222649Z.iso.CONTENTS.gz
+https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/releases/amd64/autobuilds/current-install-amd64-minimal/install-amd64-minimal-20211101T222649Z.iso.DIGESTS
+https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/releases/amd64/autobuilds/current-install-amd64-minimal/install-amd64-minimal-20211101T222649Z.iso.DIGESTS.asc
